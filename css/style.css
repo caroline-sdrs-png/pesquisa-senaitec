@@ -48,7 +48,7 @@ p{
     margin-bottom: 15px;
     font-weight: bold;
 }
-input[type-'color'] {
+input[type-"color"] {
     wigth: 40px
     padding: 0 5px;
 }
